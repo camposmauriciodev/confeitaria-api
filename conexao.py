@@ -4,7 +4,7 @@ def get_conexao():
     conn = psycopg2.connect(
         dbname='postgres',
         user='postgres.payjekqzziftigaiedar',
-        password='MJrx1706#06',
+        password='uBvQxqrlXcycHBIM',
         host='aws-1-us-east-2.pooler.supabase.com',
         port='6543'
     )
